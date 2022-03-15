@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\Game Build\AristotleVersion\OverCome4Aris\obj\Debug\AstarPathfindingProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Game Build\AristotleVersion\OverCome4Aris\obj\Debug\AstarPathfindingProject.csproj.CoreCompileInputs.cache
